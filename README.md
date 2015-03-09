@@ -1,8 +1,7 @@
 # FinalProject
 for RISD Class
-blablabla
-wulalala
 
--item shiliu
-
-~ lala
+Webpages:
+Homepage--
+Product page
+Product Detail page
