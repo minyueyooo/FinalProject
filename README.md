@@ -5,5 +5,7 @@ for RISD Class
 Homepage--
 
 Product page
+
 Product Detail page
+
 d
