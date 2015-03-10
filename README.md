@@ -2,7 +2,7 @@
 for the Web Project Course
 
 ##Project Description
-I want to create the frondend for my own fashion brand QipaoX's e-commerce website. 
+I want to create the frondend for my own fashion brand QipaoX's e-commerce website. QipaoX re-designs Qipao, the traditional Chinese ethnic dress, into modern clothing that embraces urban lifestyles. So I want the website to be a fusion of tradition and modernism.
 
 ##Frontend Webpage Outline:
 1. Homepage（including design concepts, fashion shoots）
